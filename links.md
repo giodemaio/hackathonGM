@@ -14,3 +14,6 @@ https://www.cabinetmedical.ch/services/informatique/informations-informatique
 https://www.lequotidiendumedecin.fr/actualites/article/2016/05/20/patients-et-impatients-la-salle-dattente_840771
 
 « L’une de mes patientes a trouvé la parade avec moi, explique un gynécologue. Elle sait que j’ai toujours une heure de retard en milieu de journée. Du coup, elle arrive systématiquement trois quarts d’heure après l’heure prévue de son rendez-vous. Sauf qu’il est arrivé que la patiente qui la précédait ait annulé son rendez-vous le matin même. Du coup, j’étais à l’heure et j’ai dû attendre dans mon bureau une demi-heure. »
+
+Exemple Presentation + pitch
+https://drive.google.com/drive/folders/1ya65mpNd2wwzphP2nDWlc0pQB8agXj3m
